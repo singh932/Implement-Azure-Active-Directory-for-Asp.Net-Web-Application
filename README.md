@@ -1,5 +1,3 @@
-README - Azure AD Authentication with ASP.NET MVC
-Objective
 Implement Azure Active Directory (Azure AD) authentication in an ASP.NET MVC web application using Microsoft Identity Web.
 Steps to Implement
 
